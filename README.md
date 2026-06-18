@@ -178,6 +178,16 @@ business_statistics_analysis.ipynb
 - Automate statistical reporting
 
 ---
+decision_making_with_business_statistics
+
+📄 README.md
+📓 business_statistics_analysis.ipynb
+📄 dataset.csv
+📄 requirements.txt
+📁 results
+📁 images
+
+---
 
 ## 👤 Author
 
